@@ -1,0 +1,16 @@
+.container {
+    border: solid black 3px;
+    border-radius: 25%;
+}
+h1 {
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+#wowbackground{
+    background-image: url('./assets/maxresdefault.jpg');
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    padding:
+}
